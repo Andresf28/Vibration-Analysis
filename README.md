@@ -19,4 +19,4 @@ Implemented models:
 - MLP
 - Transformer
 
-The selected model was deployed on an embedded device (ESP32), and tests were performed to validate its correct operation. A 94% accuracy was obtained.
+The selected model (CNN) was deployed on an embedded device (ESP32), and tests were performed to validate its correct operation. A 94% accuracy was obtained.
