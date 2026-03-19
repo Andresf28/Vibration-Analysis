@@ -28,5 +28,6 @@ The selected model (CNN) was deployed on an embedded device (ESP32), and tests w
 Authors: Andrés Felipe Cotrino Herrera¹, Jesús Alfonso López Sotelo¹, Alonso Toro Lazo², and Juan Carlos Blandón Andrade²
 
 1 - School of Engineering and Basic Sciences, Universidad Autónoma de Occidente, Cali, Colombia 
+
 2 - Systems and Telecommunications Engineering Program, Universidad Católica de Pereira, Pereira, 
 Colombia
