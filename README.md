@@ -1,3 +1,7 @@
+This repository was created for the manuscript: **Intelligent Bearing Fault Detection: Deep Learning Model Assessment and Embedded System Deployment**
+
+- **Submission ID:** 10411
+
 This project aims to perform an analysis of the best neural network model to implement in an embedded device in order to classify different types of bearing failures.
 
 The first part of this project was to build the test bench, which is located in the following repository: https://github.com/Andresf28/BancoPruebas
@@ -20,3 +24,9 @@ Implemented models:
 - Transformer
 
 The selected model (CNN) was deployed on an embedded device (ESP32), and tests were performed to validate its correct operation. A 94% accuracy was obtained.
+
+Authors: Andrés Felipe Cotrino Herrera¹, Jesús Alfonso López Sotelo¹, Alonso Toro Lazo², and Juan Carlos Blandón Andrade²
+
+1 - School of Engineering and Basic Sciences, Universidad Autónoma de Occidente, Cali, Colombia 
+2 - Systems and Telecommunications Engineering Program, Universidad Católica de Pereira, Pereira, 
+Colombia
