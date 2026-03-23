@@ -74,5 +74,5 @@ For executing scripts and doing your own tests:
 
 ## Contact
 
-For any doubts/questions about the replications of results:
+For any doubts/questions about the replication of results:
 andres.cotrino@uao.edu.co
