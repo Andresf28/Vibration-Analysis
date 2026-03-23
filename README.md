@@ -1,6 +1,21 @@
-This repository was created for the manuscript: **Intelligent Bearing Fault Detection: Deep Learning Model Assessment and Embedded System Deployment**
+# Intelligent Bearing Fault Detection: Deep Learning Model Assessment and Embedded System Deployment
 
-- **Submission ID:** 10411
+**Manuscript ID:** 10411
+
+**Authors:**
+- Andrés Felipe Cotrino Herrera¹
+- Jesús Alfonso López Sotelo¹
+- Alonso Toro Lazo²
+- Juan Carlos Blandón Andrade²
+
+**Affiliations:**
+1. School of Engineering and Basic Sciences, Universidad Autónoma de Occidente, Cali, Colombia 
+2. Systems and Telecommunications Engineering Program, Universidad Católica de Pereira, Pereira, 
+Colombia
+
+---
+
+## About the repository
 
 This project aims to perform an analysis of the best neural network model to implement in an embedded device in order to classify different types of bearing failures.
 
@@ -8,7 +23,7 @@ The first part of this project was to build the test bench, which is located in 
 
 ![image](https://github.com/user-attachments/assets/cde62cfb-547b-48b7-98fb-87a9ad4cfbdb)
 
-In this case, data was collected to build a dataset, then build, train and validate deep learning models to select the most optimal one in terms of precision metrics, f1 score and recall.
+In this case, data was collected to build a dataset, then build, train and validate deep learning models to select the most optimal one based on accuracy, f1 score and recall.
 
 Dataset classes:
 - Normal bearing
@@ -25,9 +40,16 @@ Implemented models:
 
 The selected model (CNN) was deployed on an embedded device (ESP32), and tests were performed to validate its correct operation. A 94% accuracy was obtained.
 
-Authors: Andrés Felipe Cotrino Herrera¹, Jesús Alfonso López Sotelo¹, Alonso Toro Lazo², and Juan Carlos Blandón Andrade²
+---
 
-1 - School of Engineering and Basic Sciences, Universidad Autónoma de Occidente, Cali, Colombia 
+### Included Scripts
 
-2 - Systems and Telecommunications Engineering Program, Universidad Católica de Pereira, Pereira, 
-Colombia
+This repository contains all the scripts and databases required to reproduce all the results in the paper.
+
+| File / Folder | Description |
+|---------------|-------------|
+| `MLP_tested.ipynb` ||
+| `CNN_tested.ipynb` ||
+| `LSTM_tested.ipynb` ||
+| `Transformer_tested.ipynb` ||
+| `Dataset` | This folder contains  |
